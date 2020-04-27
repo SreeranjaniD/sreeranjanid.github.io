@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <title> Contact </title>
+  </head
+
+  <body>
+  <a href="./index.html">Home</a><br><pre><a href="./contact.html">Contact</a>
+    
+  <h2>Contact</h2>
+   <p><strong>Email</strong>:didugu@wisc.edu</p><br>
+   <a href="https://www.linkedin.com/in/sreeranjani-didugu-a177bba8" target="_blank">LinkedIn</a><br>
+   <a href="https://github.com/SreeranjaniD" target="_blank">Github</a>
+  </body>
+  
+</html>
