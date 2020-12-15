@@ -1,3 +1,3 @@
-# Where it pays to attend college
-
-Link to my webpage- https://sreeranjanid.github.io
+# SoundVizz
+##### Param Gandhi, HanGyu Kang, Desmond Fung, Sreeranjani Didugu
+One stop shop to visualize your favourite music. Powered by D3.js & Spotify's Public Data
